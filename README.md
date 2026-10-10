@@ -12,7 +12,8 @@ I am passionate about learning everything in the world of computer science and a
 🤖Machine Learning/GenAI/Data Science: scikit-learn, pandas, NumPy, matplotlib/seaborn, R, LangChain/LangGraph, OpenAI SDKs
 
 👔I am particularly interested in **applied machine learning** and in **full-stack software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. Below are some of my relevant experiences: <br /> 
-- **Software Engineer I** @ Dell Technologies (Feb 2024 - present)
+- **Member of Technical Staff II** @ Nutanix (Jul 2026 - present)
+- **Software Engineer I** @ Dell Technologies (Feb 2024 - Jul 2026)
 - **Software Developer** @ Pershing Technology Services (Sept 2023 - Jan 2024)
 - **Software Engineer Intern** @ Realtor.com (Sept 2021 - Apr 2022)
 - **Data Science Research Fellow Intern** @ UBC Data Science Institute (May 2021 - Aug 2021)
