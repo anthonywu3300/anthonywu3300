@@ -3,9 +3,9 @@
 
 I am passionate about learning everything in the world of computer science and applying my knowledge to deliver intelligent products!
 
-🤹Languages: JavaScript, TypeScript, Python, HTML/CSS, SQL, Java, C++, R
+🤹Languages: Python, TypeScript, JavaScript, Golang, Java, C++
 
-💻Web Development: React.js, Angular, Node.js, Express.js, RESTful API Design, GraphQL, Tailwind CSS, Flask
+💻Web Development: Django, Flask, React.js, Angular, Node.js, Express.js, RESTful API Design, GraphQL, Tailwind CSS
 
 📊Databases: MySQL, Microsoft SQL Server, MongoDB, Redis
 
